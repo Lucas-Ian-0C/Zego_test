@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240124001096",
+    "project_id": "callteste-d4431",
+    "storage_bucket": "callteste-d4431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240124001096:android:2631c1dc19e940ca17517d",
+        "android_client_info": {
+          "package_name": "com.example.zego_tes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240124001096-48dof4s9te1e62qjro52uh0q114e4qun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7SBNPi60aQN26hVbgBL3DoqZRCXMp87c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240124001096-48dof4s9te1e62qjro52uh0q114e4qun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
